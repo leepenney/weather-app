@@ -1,5 +1,7 @@
 # A Sample Weather App
 
+![Gif Demo of Weather App](./public/weather_app.gif)
+
 This is a small app that allows you to search for a city to see what the current weather conditions are at that location.
 
 It will then display the conditions, wind speed and temperature as well as adding a background image using the conditions as a keyword.
